@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import "./NoteForm.css";
 
 class NoteForm extends Component {
